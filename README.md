@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am sahil vaghasiya works with mobile application<br>development based on Flutter.Currently enhancing my<br>skills at Creative Design and Multimedia Institute, I am Selfmotivated and hardworking fresher seeking for an<br>opportunity to work in a challenging environment to prove<br>my skills and utilize my knowledge & intelligence in the<br>growth of the organization.
+I am sahil vaghasiya works with mobile application<br>development based on Flutter. I am Selfmotivated and hardworking fresher seeking for an<br>opportunity to work in a challenging environment to prove<br>my skills and utilize my knowledge & intelligence in the<br>growth of the organization.
 
 
 ## 🌐 Socials:
