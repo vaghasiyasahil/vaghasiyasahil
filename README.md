@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am sahil vaghasiya works with mobile application<br>development based on Flutter. I am Selfmotivated and hardworking fresher seeking for an<br>opportunity to work in a challenging environment to prove<br>my skills and utilize my knowledge & intelligence in the<br>growth of the organization.
+I am <b>Sahil Vaghasiya</b>, a passionate <b>Mobile Application Developer</b> specializing in <b>Flutter</b> with <b>3+ years of experience</b>.<br><br>
+I am a self-motivated and hardworking professional seeking an opportunity to work in a challenging environment where I can prove my skills and utilize my knowledge and intelligence for the growth of the organization.
+
 
 
 ## 🌐 Socials:
